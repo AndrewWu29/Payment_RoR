@@ -1,4 +1,5 @@
-﻿## O'Pay歐付寶 全方位(All In One)金流介接 Ruby版
+# I developed during in O'Pay&ECPay as a QAE.
+# O'Pay歐付寶 全方位(All In One)金流介接 Ruby版
 
 ### 1. 介紹
 
